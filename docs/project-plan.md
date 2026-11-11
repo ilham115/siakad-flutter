@@ -2,7 +2,7 @@
 
 ## Anggota
 - Muhammad Ilham (maintainer)
-- (nama teman)
+- Muhammad Akazah
 
 ## Alat
 - Flutter/Dart, VS Code, Git, GitHub
